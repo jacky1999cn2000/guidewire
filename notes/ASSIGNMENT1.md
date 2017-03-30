@@ -1,12 +1,12 @@
 # Assignment One
 
-* Scenario:
+* **Scenario**:
 
   * Guidewire software has sales offices across the globe to support global business. Sales rep create opportunities to track deals and record opportunity amount. For example, sales rep in US creates opportunity & records amount in USD, and sales rep in UK records amount in GBP.  The Account owner should be able to see the total amount from all opportunities in USD.
 
   * In salesforce, the corporate currency is set to USD. Multicurrency and dated exchange rate are enabled too to support global business model.
 
-* Task :
+* **Task** :
 
   * Create Rollup summary field Total Value of Won Opportunities (label), Total_Value_of_Won_Opps_derived__c (Api) in Account Object.
 
@@ -18,10 +18,10 @@
 
   * Create test class for 90% code coverage.
 
-* P.S.
+* **P.S.**
   You can use custom object DatedExchangeRate with similar metadata as standard one. Plus create custom currency field ISO currency code in the opportunity object.
 
-* Solution :
+* **Solution** :
   * Classes
     * OpportunityTriggerHandler.cls
     * TestOpportunityTriggerHandler.cls
