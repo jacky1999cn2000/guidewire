@@ -4,4 +4,4 @@
 * password:
 * token: RDY3lCRUHJ0jEtWFbpITLpy3
 
-* [Assignment One](./notes/ASSIGNMENT1.md)
+* [Assignment](./notes/ASSIGNMENT.md)

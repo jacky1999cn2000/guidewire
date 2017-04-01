@@ -1,0 +1,2 @@
+<apex:page standardController="Three_Pointer__c" extensions="ThreePointerListControllerExt" recordSetVar="tpRecords" action="{!madeAll}">
+</apex:page>

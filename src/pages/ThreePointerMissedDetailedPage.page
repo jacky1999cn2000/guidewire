@@ -1,0 +1,2 @@
+<apex:page standardController="Three_Pointer__c" extensions="ThreePointerControllerExt" action="{!missed}">
+</apex:page>

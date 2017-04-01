@@ -6,6 +6,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>ApexTrigger</name>
     </types>
     <types>
@@ -16,11 +20,16 @@
     </types>
     <types>
         <members>DatedExchangeRate__c</members>
+        <members>Three_Pointer__c</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>*</members>
         <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Three_Pointer__c-Three Pointer Layout</members>
+        <name>Layout</name>
     </types>
     <version>39.0</version>
 </Package>
